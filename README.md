@@ -7,20 +7,24 @@
 ---
 
 ### Project Description
-Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
+We will be recreating candy crush(<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/11655dc0-a2a3-4f82-ac62-ffeac4743aee" />) instead of candy we'll be immplementing geometric shapes such as squares, circles, triangles, elipses, rectangles. The goal of the game is to gain maximum points within a time or move limit. Getting more in a row gives you power ups and more points. 
+
 
 ### Skill Usage
-Explain what skills from this semester you will be using in this project, and how they will be used.
+-2D arrays: grid of tiles for the board
+-1D arrays: geometric shapes
+-arrayList: 
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
+
 
 Keyboard Commands:
 - LIST OF COMMANDS HERE
 
 Mouse Control:
 - Mouse movement:
-- Mouse pressed:
+- Mouse pressed: 
 
 
 ### Classes
