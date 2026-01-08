@@ -12,20 +12,34 @@ We will be recreating candy crush(<img width="1024" height="768" alt="image" src
 
 ### Skill Usage
 -2D arrays: grid of tiles for the board
+
 -1D arrays: geometric shapes
+
 -arrayList: 
+
+-Classes
+
+-functions for game functionality
+
+-Globals for booleans, score
 
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
 
 
 Keyboard Commands:
-- LIST OF COMMANDS HERE
+- R: to restart the game
+
+- 1: to set it to timer mode
+
+- 2: to set it to move mode
 
 Mouse Control:
-- Mouse movement:
-- Mouse pressed: 
+- Mouse pressed: Selects the piece to be moved. If a piece is already selected, check if it is a neighbor(not diagonal). If it is attempt to switch the tiles, and if not then override the selection to the new piece.
 
 
 ### Classes
 What classes will you be creating for this project? Include the instance variables and methods that you believe you will need. You will be required to create at least 2 different classes. If you are going to use classes similar to those we've made for previous assignments, you will have to add new features to them.
+# Tile(individual pieces)
+
+# Board(grid of tiles)
