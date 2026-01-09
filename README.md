@@ -50,6 +50,9 @@ size
 display(shows the shape and the tile)
 
 # Board(grid of tiles)
+int rows
+
+int cols
 
 checkMatch
 
