@@ -43,9 +43,9 @@ What classes will you be creating for this project? Include the instance variabl
 # Tile(individual pieces)
 vars:
 
-shape
+int shape
 
-size
+int size
 
 display(shows the shape and the tile)
 
